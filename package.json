@@ -1,0 +1,33 @@
+{
+  "name": "articulus-surgical",
+  "version": "1.0.0",
+  "description": "website for Articulus Surgical",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sourcemaps": "^3.0.0"
+  },
+  "dependencies": {
+    "postcss": "^8.4.4"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 10 chrome version",
+      "last 10 firefox version",
+      "last 10 safari version",
+      "last 10 ie version"
+    ]
+  }
+}

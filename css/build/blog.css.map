@@ -1,0 +1,1 @@
+{"version":3,"sources":["blog.css"],"names":[],"mappings":"AAAA;EACE,iBAAiB;AACnB;AACA;EACE,kBAAkB;EAClB,iBAAiB;AACnB;AACA;EACE,kBAAkB;AACpB","file":"blog.css","sourcesContent":[".container {\r\n  min-height: 100vh;\r\n}\r\n.container > h1 {\r\n  text-align: center;\r\n  margin-top: 100px;\r\n}\r\n.container > p {\r\n  text-align: center;\r\n}\r\n"]}
